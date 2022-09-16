@@ -23,10 +23,8 @@ class ToolContents extends Component {
 
     constructor(props) {
         super(props);
-        //this.toolName = 'TEST';
         this.toolName = 'CSF-COVERCROP';
-        //this.token = 'YOUR_TOKEN';
-        this.token = 'pk.eyJ1IjoiYm5iMiIsImEiOiJjazJtYTgwajQwZnFiM29waGo4NHI1MWpnIn0.Xmb6eYeJArqqBQtKkWorUQ';
+        this.token = 'YOUR_TOKEN';
         this.crop_list = ['buckwheat','mustard','rye']
         this.defaultLocation = {
           "address":"Cornell University, Ithaca, NY",
