@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/csf-covercrop-v2/style/csf-covercrop-v2.css",
+    "main.js": "/csf-covercrop-v2/js/toolinit.js",
+    "main.js.map": "/csf-covercrop-v2/js/toolinit.js.map",
+    "index.html": "/csf-covercrop-v2/index.html",
+    "js/toolinit.js.LICENSE.txt": "/csf-covercrop-v2/js/toolinit.js.LICENSE.txt",
+    "static/media/LocationPicker.css": "/csf-covercrop-v2/static/media/pin-red.8ec75972.svg",
+    "style/csf-covercrop-v2.css.map": "/csf-covercrop-v2/style/csf-covercrop-v2.css.map"
+  },
+  "entrypoints": [
+    "style/csf-covercrop-v2.css",
+    "js/toolinit.js"
+  ]
+}
